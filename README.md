@@ -1,6 +1,6 @@
 # MyosinDrivenCellAreaFluctuations
 
-##Objective
+## Objective
 MATLAB based image analysis of cell area fluctuations.
 
 ## Techniques
